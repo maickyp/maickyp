@@ -1,4 +1,4 @@
-### Hello there, I'm Alejandro Peña[website] 👋
+### Hello there, I'm Alejandro Peña 👋
 
 ## I am Tapatío, good friend, and Tea Lover!!
 
