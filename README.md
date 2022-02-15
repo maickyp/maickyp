@@ -2,10 +2,10 @@
 
 ## I am Tapatío, good friend, and Tea Lover!!
 
-- 🔭 I've recently gotten my bachelor degree in Electronics!
-- 🌱 I’m currently learning everything about life and after-school life
-- 👯 I’m looking for a full time job either electronics or software dev.
-- 🥅 2021 Goals: Update my knowledge about micros and get a job in professional industry
+- 🔭 Regardless my bachelor degree, I like to learn from several sources and topics.
+- 🌱 I’m currently learning everything about life and after-school life.
+- 👯 I love spend a time with a cup of tea and bunch of code.
+- 🥅 2022 Goals: Master my knowledge and get promoted in my job, also push myself and learn new technologies about programming.
 - ⚡ Fun fact: I love learning all kind of stuff, the more "useless" it seems, the more I'm interested.
 
 ### Spotify Playing 🎧
@@ -28,6 +28,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
 
 
 <br />
