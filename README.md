@@ -1,12 +1,22 @@
 ### Hello there, I'm Alejandro Peña 👋
 
-## I am Tapatío, good friend, and Tea Lover!!
+## Embedded Software Developer
 
-- 🔭 Regardless my bachelor degree, I like to learn from several sources and topics.
-- 🌱 I’m currently learning everything about life and after-school life.
-- 👯 I love spend a time with a cup of tea and bunch of code.
-- 🥅 2022 Goals: Master my knowledge and get promoted in my job, also push myself and learn new technologies about programming.
-- ⚡ Fun fact: I love learning all kind of stuff, the more "useless" it seems, the more I'm interested.
+- Everyday you can learn a new thing, regarless its form -
+
+I have experience in C++ and Python languajes.
+Team player that enjoys giving solutions to other people struggles.
+I see a problem and try to give an possible solution for the future.
+Recently, my work is focused on automation of process and tests:
+From linux shell scripts, automated on-device tests written in python,
+excel/csv automation process to a complete Robot Framework test suite for regretion tests.
+
+### Technologies
+- C++
+- Python
+- Linux Kernel
+- QNX
+- Robot Framework
 
 ### Spotify Playing 🎧
 
@@ -21,13 +31,12 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+
 
 
 
